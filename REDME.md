@@ -46,5 +46,7 @@ Implementar un sistema de control de riego utilizando un sensor de humedad en el
 
 ## Prototipo en dibujo
 Coloca la fotografia de tu prototipo dibujado a lapiz
+![WhatsApp Image 2023-04-24 at 4 34 01 PM](https://user-images.githubusercontent.com/48172198/234130922-47634047-e751-4dbc-bcff-5c4b5a530080.jpeg)
+
 
 
