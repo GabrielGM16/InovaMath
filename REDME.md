@@ -28,3 +28,23 @@ Implementar un sistema de control de riego utilizando un sensor de humedad en el
 |5|Sensor de Humedad|Un sensor de humedad para Arduino es un dispositivo que se utiliza para medir la humedad del suelo y proporcionar una señal eléctrica proporcional a la cantidad de humedad presente en el suelo. Estos sensores constan de dos partes principales: el circuito de detección y la placa de control.|![image](https://cdn.shopify.com/s/files/1/0083/1858/2874/files/sensor-de-humedad-en-suelo-yl-69_2048x2048.jpg?v=1595010811)|1|$93.00 MXN|
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](https://m.media-amazon.com/images/I/61eyPE6adjL._SX466_.jpg)|2|$250.00 MXN|
 |7|Led RGB|LED RGB significa LED rojo, azul y verde. Los productos LED RGB combinan estos tres colores para producir más de 16 millones de tonos de luz.|![image](https://user-images.githubusercontent.com/41849043/232653796-da96d277-e313-47c5-b7e6-556e41decacd.png)|1|$1.00|
+
+## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
+-Monitoreo de las condiciones ambientales de la planta: esta épica se enfoca en el monitoreo de las condiciones ambientales de la planta, como la humedad del suelo, la temperatura y la cantidad de luz que recibe. El objetivo es medir estos factores y presentarlos de manera visual en una pantalla para que los usuarios puedan tener una idea clara del estado de la planta.
+
+-Control de riego automático: esta épica se enfoca en el control automático del riego de la planta utilizando un sensor de humedad en el suelo y una bomba de agua. El objetivo es mantener el nivel de humedad del suelo en un rango óptimo para el crecimiento de la planta, y que se active automáticamente cuando el nivel de humedad caiga por debajo del umbral deseado.
+
+-Integración con una plataforma IoT: esta épica se enfoca en la integración del proyecto con una plataforma IoT para la recopilación y análisis de datos en tiempo real. El objetivo es enviar los datos medidos por los sensores a una plataforma en la nube y permitir la visualización y análisis de los mismos desde cualquier lugar del mundo. Además, esto podría permitir la configuración remota de los parámetros del sistema.
+
+## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|  1  | Como usuario, quiero poder ver los datos de humedad del suelo de mi planta en tiempo real, para poder determinar si necesita ser regada. Para ello, deseo que la pantalla muestre un gráfico con la evolución de la humedad del suelo en las últimas horas, así como un indicador de nivel de humedad actual. Además, deseo recibir una alerta visual o sonora cuando el nivel de humedad caiga por debajo de un umbral específico, indicando que la planta necesita ser regada.                   |           |            |               |             |
+|  2  | Como usuario, quiero poder configurar el riego automático de mi planta, para que se active automáticamente cuando el nivel de humedad caiga por debajo del umbral deseado. Para ello, deseo poder especificar el umbral deseado para el nivel de humedad, así como la duración y frecuencia del riego. Además, deseo tener la opción de desactivar el riego automático si lo deseo.                  |           |            |               |             |
+|  3  | Como usuario, quiero poder acceder a los datos de monitoreo de mi planta desde cualquier lugar del mundo, para poder verificar su estado y hacer ajustes si es necesario. Para ello, deseo que el proyecto esté integrado con una plataforma IoT en la nube, que me permita visualizar los datos de humedad, temperatura y luz de mi planta en tiempo real, desde cualquier dispositivo con conexión a internet. Además, deseo tener la opción de recibir notificaciones cuando el nivel de humedad caiga por debajo del umbral deseado, para poder tomar medidas inmediatas si es necesario.                 |           |            |               |             |
+|  4  |Como usuario, quiero poder ajustar los valores de referencia para el control automático de riego, para poder personalizar el sistema a las necesidades específicas de mi planta. Para ello, deseo tener acceso a una interfaz de usuario que me permita cambiar los valores de umbral de humedad y la duración y frecuencia del riego automático. Además, deseo poder guardar múltiples configuraciones personalizadas para diferentes tipos de plantas y suelos.|||||
+
+## Prototipo en dibujo
+Coloca la fotografia de tu prototipo dibujado a lapiz
+
+
