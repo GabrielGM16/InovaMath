@@ -56,10 +56,15 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 
 ## Librerias Utilizadas
 -SoftwareSerial
+
 -DFRobotDFPlayerMini
+
 -Wire
+
 -LiquidCrystal_I2C
+
 -WiFi
+
 -PubSubClient
 
 ## Video demostracion
@@ -67,9 +72,21 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 https://vm.tiktok.com/ZMY35E1VB/
 
 ## Evidencias fotograficas
-![IMG_2023042![IMG_20230424_163714](https://user-images.githubusercontent.com/48172198/234708981-965e8cfb-f7f1-4256-a6b9-f73efc1fc3c8.jpg)
-4_163821](https://user-images.githubusercontent.com/48172198/234708925-21973b47-9b35-4298-8b3e-2c6b375f46ea.jpg)
-![IMG_20230424_163753](https://user-images.githubusercontent.com/48172198/234709006-d4588cb2-c069-46db-8bca-b47fbdaa0e17.jpg)
+![IMG_20230424_163821](https://user-images.githubusercontent.com/48172198/234709203-864ae5cc-25b3-4cba-a822-992062646fc5.jpg)
+
+
+![IMG_20230424_163714](https://user-images.githubusercontent.com/48172198/234709222-0ba2172b-abd0-4201-a1fb-4eac9e9ad035.jpg)
+
+
+
+![IMG_20230424_163753](https://user-images.githubusercontent.com/48172198/234709236-b5a27ff8-6fcd-4829-b49c-e05192dcb604.jpg)
+
+
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/48172198/234709323-9bf92e4b-09e9-41db-a317-838d5f58832d.png">
+
+
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/48172198/234709392-c9aed3ab-bd5c-440c-8cc1-39c33aa78929.png">
+
 
 
 
