@@ -52,6 +52,12 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 ## Codigo
 
 ## Librerias Utilizadas
+-SoftwareSerial
+-DFRobotDFPlayerMini
+-Wire
+-LiquidCrystal_I2C
+-WiFi
+-PubSubClient
 
 ## Video demostracion
 
