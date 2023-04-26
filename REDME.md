@@ -17,6 +17,7 @@ Implementar un sistema de control de riego utilizando un sensor de humedad en el
 | 1  |   MySQL  |   8.0   | SGBD |
 | 2  |ArduinoIDE|  2.0.3  |  IDE |
 | 3  |  Grafana |  9.4.7  |Dashboard|
+| 3  | Node-REd |  12.0.1  |Dashboard|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
@@ -29,6 +30,7 @@ Implementar un sistema de control de riego utilizando un sensor de humedad en el
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](https://m.media-amazon.com/images/I/61eyPE6adjL._SX466_.jpg)|2|$250.00 MXN|
 |7|Led RGB|LED RGB significa LED rojo, azul y verde. Los productos LED RGB combinan estos tres colores para producir más de 16 millones de tonos de luz.|![image](https://user-images.githubusercontent.com/41849043/232653796-da96d277-e313-47c5-b7e6-556e41decacd.png)|1|$1.00|
 |8|Sensor de gas|Este es un sensor muy sencillo de usar, ideal para medir concentraciones de gas natural en el aire. Puede detectar concentraciones desde 300 hasta 10000 ppm.|![image](https://user-images.githubusercontent.com/48172198/234708080-fb59c3ed-d30c-482e-8a76-057949332586.png)|1|$63.00|
+|9|Modulo MP3|Mini Modulo Reproductor Mp3 Dfplayer Ranura Micro Sd Arduino|![image](https://user-images.githubusercontent.com/48172198/234710251-6df62f9b-ceb9-4341-845f-874cc2ec9a85.png)|1|$59.00|
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 -Monitoreo de las condiciones ambientales de la planta: esta épica se enfoca en el monitoreo de las condiciones ambientales de la planta, como la humedad del suelo, la temperatura y la cantidad de luz que recibe. El objetivo es medir estos factores y presentarlos de manera visual en una pantalla para que los usuarios puedan tener una idea clara del estado de la planta.
