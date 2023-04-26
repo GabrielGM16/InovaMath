@@ -51,6 +51,9 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 
 ## Codigo
 
+[MIPROYECTO_1.zip](https://github.com/GabrielGM16/InovaMath/files/11337473/MIPROYECTO_1.zip)
+
+
 ## Librerias Utilizadas
 -SoftwareSerial
 -DFRobotDFPlayerMini
@@ -61,8 +64,16 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 
 ## Video demostracion
 
-## Evidencias fotograficas
-
 https://vm.tiktok.com/ZMY35E1VB/
+
+## Evidencias fotograficas
+![IMG_2023042![IMG_20230424_163714](https://user-images.githubusercontent.com/48172198/234708981-965e8cfb-f7f1-4256-a6b9-f73efc1fc3c8.jpg)
+4_163821](https://user-images.githubusercontent.com/48172198/234708925-21973b47-9b35-4298-8b3e-2c6b375f46ea.jpg)
+![IMG_20230424_163753](https://user-images.githubusercontent.com/48172198/234709006-d4588cb2-c069-46db-8bca-b47fbdaa0e17.jpg)
+
+
+
+
+
 
 
